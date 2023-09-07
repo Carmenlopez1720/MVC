@@ -20,3 +20,4 @@ $plantilla = new ControladorPlantilla();
 # para ejecutar un metodo que este tendro de la clase con flechita ejecutamos el metodo ctrTraerplantilla
 
 $plantilla -> ctrTraerPlantilla();
+#gf
